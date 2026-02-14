@@ -1,0 +1,21 @@
+{
+  "RingbitCar.Distance_Unit.Distance_Unit_cm|block": "cm",
+  "RingbitCar.Distance_Unit.Distance_Unit_inch|block": "pouce",
+  "RingbitCar.Distance_Unit.Distance_Unit_mm|block": "mm",
+  "RingbitCar.TrackingStateType.Tracking_State_0|block": "● ●",
+  "RingbitCar.TrackingStateType.Tracking_State_1|block": "● ◌",
+  "RingbitCar.TrackingStateType.Tracking_State_2|block": "◌ ●",
+  "RingbitCar.TrackingStateType.Tracking_State_3|block": "◌ ◌",
+  "RingbitCar.back|block": "reculer à pleine vitesse",
+  "RingbitCar.brake|block": "freiner",
+  "RingbitCar.forward|block": "avancer à pleine vitesse",
+  "RingbitCar.freestyle|block": "régler vitesse roue gauche à %m| et roue droite à %n",
+  "RingbitCar.init_wheel|block": "assigner roue gauche à broche %left| et roue droite à broche %right",
+  "RingbitCar.ringbitcar_sonarbit|block": "calculer distance en %distance_unit",
+  "RingbitCar.set_motor_speed": "Définit la vitesse du moteur. La valeur par défaut est 70 pour éviter la surchauffe. S'applique à tous les blocs sauf steering_angle et freestyle.",
+  "RingbitCar.tracking|block": "l'état actuel est %state",
+  "RingbitCar.turnleft|block": "tourner à gauche à pleine vitesse",
+  "RingbitCar.turnright|block": "tourner à droite à pleine vitesse",
+  "RingbitCar|block": "RingbitCar",
+  "{id:category}RingbitCar": "RingbitCar"
+}
