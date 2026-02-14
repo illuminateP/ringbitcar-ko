@@ -1,7 +1,7 @@
 {
     "name": "RingbitCar",
     "version": "3.1.6",
-    "description": "Based on ELECFREAKS ring:bit car. Adds set_motor_speed (20–100%) for more consistent movement and Korean (ko) locale.",
+    "description": "Based on ELECFREAKS ring:bit car. Adds set_motor_speed for more consistent movement and Korean locale.",
     "license": "MIT",
     "dependencies": {
         "core": "*",
