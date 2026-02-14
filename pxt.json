@@ -1,7 +1,7 @@
 {
-    "name": "RingbitCar-v1.0",
+    "name": "RingbitCar",
     "version": "1.0.0",
-    "description": "Based on ELECFREAKS ring:bit car. Adds set_motor_speed for more consistent movement and Korean locale.",
+    "description": "A better version of RingbitCar",
     "license": "MIT",
     "dependencies": {
         "core": "*",
