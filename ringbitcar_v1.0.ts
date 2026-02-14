@@ -1,6 +1,5 @@
 //% weight=0 color=#0fbc11  icon="\uf207" block="RingbitCar"
 namespace RingbitCar {
-
     export enum TrackingStateType {
         //% block="● ●" enumval=0
         Tracking_State_0,
@@ -30,14 +29,14 @@ namespace RingbitCar {
         backward
     }
     export enum Motor_Speed{
+        //% block="70%%" enumval=3
+        Speed_70,
         //% block="20%%" enumval=0
         Speed_20,
         //% block="30%%" enumval=1
         Speed_30,
         //% block="50%%" enumval=2
         Speed_50,
-        //% block="70%%" enumval=3
-        Speed_70,
         //% block="100%%" enumval=4
         Speed_100
     }
