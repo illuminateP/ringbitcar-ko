@@ -13,7 +13,7 @@ This package is based on [tinkertanker/pxt-ringbitcar](https://github.com/tinker
    Korean locale was added. Block labels and help text are available in Korean when the editor language is set to Korean. Locale files: `_locales/ko/RingbitCar-strings.json`, `_locales/ko/RingbitCar-jsdoc-strings.json`.
 
 3. **Bug fix for Ultrasonic Block** 
-Fixed an issue where the ultrasonic distance block was not translated correctly.
+Fixed an issue where the ultrasonic distance block was not translated correctly.  
 ---
 
 ### 한글
@@ -24,7 +24,7 @@ Fixed an issue where the ultrasonic distance block was not translated correctly.
 2. **한국어 로케일**  
    한국어 번역을 추가했습니다. 브라우저 언어가 한국어일 경우 언어를 블록 문구와 도움말이 한국어로 표시됩니다. 로케일 파일: `_locales/ko/RingbitCar-strings.json`, `_locales/ko/RingbitCar-jsdoc-strings.json`.
 
-3. **초음파 블록 버그 수정** 
+3. **초음파 블록 버그 수정**   
 초음파 거리 블록의 번역이 적용되지 않던 문제를 수정했습니다.
 ---
 
