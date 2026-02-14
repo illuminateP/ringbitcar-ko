@@ -245,7 +245,7 @@ namespace RingbitCar {
     */
     //% weight=9
     //% advanced=true
-    //% blockId=ringbitcar_sonarbit block="ultrasonic distance in unit %Distance_Unit"
+    //% blockId=ringbitcar_sonarbit block="ultrasonic distance in unit %distance_unit"
     export function ringbitcar_sonarbit(distance_unit: Distance_Unit): number {
         let sensor_pin = DigitalPin.P0
         if (pin_left_wheel != AnalogPin.P1 && pin_right_wheel != AnalogPin.P1) {

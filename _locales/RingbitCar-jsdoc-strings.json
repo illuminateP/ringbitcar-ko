@@ -13,6 +13,6 @@
   "RingbitCar.tracking": "TODO: line following",
   "RingbitCar.turnleft": "TODO: full speed turn left",
   "RingbitCar.turnright": "TODO: full speed turn right",
-  "RingbitCar.steering_angle": "For reference only",
-  "RingbitCar.running_distance": "For reference only"
+  "RingbitCar.steering_angle": "Spins the car left or right by the given angle (degrees). Uses its own built-in speed (about 45%); set_motor_speed does not apply.",
+  "RingbitCar.running_distance": "Drives the car forward or backward for the given distance in cm, then brakes. Uses the current motor speed set by set_motor_speed."
 }

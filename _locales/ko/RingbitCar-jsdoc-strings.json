@@ -5,14 +5,14 @@
   "RingbitCar.freestyle": "왼쪽·오른쪽 바퀴 속도를 각각 설정합니다.",
   "RingbitCar.freestyle|param|m": "왼쪽 바퀴 속도 (-100~100, 예: 0)",
   "RingbitCar.freestyle|param|n": "오른쪽 바퀴 속도 (-100~100, 예: 0)",
-  "RingbitCar.init_wheel": "링:비트 카의 왼쪽·오른쪽 바퀴 핀을 설정합니다.",
+  "RingbitCar.init_wheel": "링비트카의 왼쪽·오른쪽 바퀴 핀을 설정합니다.",
   "RingbitCar.init_wheel|param|left": "왼쪽 바퀴 핀 (예: AnalogPin.P1)",
   "RingbitCar.init_wheel|param|right": "오른쪽 바퀴 핀 (예: AnalogPin.P2)",
   "RingbitCar.ringbitcar_sonarbit": "초음파 센서로 거리를 측정합니다.",
-  "RingbitCar.set_motor_speed": "모터 속도를 설정합니다. 기본값은 70이며 과열을 방지합니다. steering_angle, freestyle 블록을 제외한 모든 블록에 적용됩니다.",
+  "RingbitCar.set_motor_speed": "모터 속도를 설정합니다. 기본값은 70입니다. steering_angle, freestyle 블록을 제외한 모든 블록에 적용됩니다.",
   "RingbitCar.tracking": "라인을 따라 이동합니다.",
   "RingbitCar.turnleft": "전속력으로 왼쪽으로 회전합니다.",
   "RingbitCar.turnright": "전속력으로 오른쪽으로 회전합니다.",
-  "RingbitCar.steering_angle": "For reference only",
-  "RingbitCar.running_distance": "For reference only"
+  "RingbitCar.steering_angle": "차량을 지정한 방향으로 지정한 각도(도)만큼 회전합니다. 자체 속도(약 45%)를 사용하며, set_motor_speed는 적용되지 않습니다.",
+  "RingbitCar.running_distance": "차량을 지정한 방향으로 지정한 거리(cm)만큼 이동한 뒤 정지합니다. set_motor_speed로 설정한 현재 모터 속도를 사용합니다."
 }
