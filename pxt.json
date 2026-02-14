@@ -9,6 +9,7 @@
     },
     "files": [
         "README.md",
+        "icon.png",
         "ringbitcar_v1.0.ts",
         "_locales/ja/RingbitCar-strings.json",
         "_locales/fr/RingbitCar-strings.json",
